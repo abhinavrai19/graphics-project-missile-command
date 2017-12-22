@@ -1,0 +1,34 @@
+#statusBar {
+	width: 100%;
+	height: 5%;
+	top: 0;
+	position: absolute;
+	background: #fff;
+	color: #000;
+	font-size: 1.5em;
+	opacity: 1.0;
+}
+
+#score {
+	width: 28%;
+	padding: 0.5% 0;
+	padding-left: 2%;
+	float: left;
+	position: relative;
+}
+
+#instructions {
+	float: left;
+	padding: 0.5% 0;
+	text-align: center;
+    width: 40%;
+}
+
+#stage {
+	width: 28%;
+	padding: 0.5% 0;
+	padding-right: 2%;
+	float: right;
+	text-align: right;
+	position: relative;
+}
