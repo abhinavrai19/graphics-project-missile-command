@@ -280,8 +280,8 @@ function World(scene){
         this.starLight.add( new THREE.Mesh( starGeometry, starMaterial ) );
         this.starLight.position.set( 0, STARLIGHT_Y, STARTLIGHT_MOVEMENT_RADIUS );
         this.starLight.castShadow = true;
-        this.starLight.shadow.mapSize.width = 512;
-        this.starLight.shadow.mapSize.height = 512;
+        this.starLight.shadow.mapSize.width = 1024;
+        this.starLight.shadow.mapSize.height = 1024;
         this.starLight.shadow.camera.far = 5000;
         this.scene.add( this.starLight );
 
