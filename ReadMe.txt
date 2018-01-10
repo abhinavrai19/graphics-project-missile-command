@@ -1,4 +1,4 @@
-CSC561 Program 4 Missile Command By Abhinav Rai.
+CSC561 Program 4 Missile Command By Abhinav Rai. (Copied from my NCSU github repo)
 
 GAME DESCRIPTION:
 The aim of the game is to prevent the incoming missiles from hitting your cities(white orbs) and your defense missile batteries(blue orbs)
